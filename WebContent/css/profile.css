@@ -1,0 +1,32 @@
+.profileDetails span{
+	position:relative;
+	left:320px;
+	color:blue;
+	font-size:30px;
+	font-family:gabriola;
+}
+table, th, td {
+	padding:10px;
+	position:relative;
+    border-collapse: collapse;
+}
+table{
+	left:430px;
+}
+th {
+    text-align: left;
+}
+td{
+    text-align: center;
+}
+.alert{
+	text-align:center;
+	width:300px;
+	height:20px;
+	position:fixed;
+	top:370px;
+	right:530px;
+	padding:2px;
+	background-color:#e74c3c;
+	color:#fff;
+}

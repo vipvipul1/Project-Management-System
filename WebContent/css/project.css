@@ -1,0 +1,79 @@
+.projectDetails{
+	position:relative;
+	left:350px;
+	color:blue;
+	font-size:20px;
+}
+.requests{
+	position:relative;
+	left:350px;
+	color:blue;
+	font-size:20px;
+}
+.invitation{
+	position:relative;
+	left:350px;
+	color:blue;
+	font-size:20px;
+}
+.members{
+	position:relative;
+	left:350px;
+	color:red;
+	font-size:20px;
+}
+.members a{
+	position:relative;
+	left:350px;
+	top:-25px;
+	color:blue;
+	text-decoration:underline;
+	font-size:17px;
+}
+.tasks{
+	position:relative;
+	left:350px;
+	color:red;
+	font-size:20px;
+}
+.tasks a{
+	position:relative;
+	left:700px;
+	top:-25px;
+	color:blue;
+	text-decoration:underline;
+	font-size:19px;
+}
+table, th, td {
+	padding:8px;
+	position:relative;
+    border-collapse: collapse;
+}
+table{
+	left:430px;
+}
+th {
+    text-align: left;
+}
+.alert{
+	text-align:center;
+	width:300px;
+	height:35px;
+	position:absolute;
+	top:220px;
+	left:530px;
+	padding:2px;
+	background-color:#e74c3c;
+	color:#fff;
+}
+.logoutalert{
+	text-align:center;
+	width:300px;
+	height:35px;
+	position:absolute;
+	top:220px;
+	left:530px;
+	padding:2px;
+	background-color:#e74c3c;
+	color:#fff;
+}
